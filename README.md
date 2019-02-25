@@ -1,3 +1,11 @@
+#Description
+
+Simple project to understand and try out the functionality of the REACT context API.
+
+I realized by doing this there is a bug with eslint and invalid-this rule, which I had to fix by
+installing eslint-plugin-babel and replacing invalid-this rule from eslint for babel/invalid-this
+also modified another eslint class-methods-use-this to ignore react class methods.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
